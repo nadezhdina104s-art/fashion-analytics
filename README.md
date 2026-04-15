@@ -140,9 +140,9 @@
 
 ## 📫 Контакты
 
-- GitHub: [github.com/ваш-username](https://github.com/ваш-username)  
-- Telegram: @ваш_telegram  
-- Email: ваш.email@gmail.com
+- GitHub: [github.com/nadezhdina104s-art](https://github.com/nadezhdina104s-art)  
+- Telegram: @sweet100
+- Email: nadezhdina_s@mail.ru
 
 ---
 
