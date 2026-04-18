@@ -141,7 +141,7 @@
 ## 📫 Контакты
 
 - **GitHub:** [github.com/nadezhdina104s-art](https://github.com/nadezhdina104s-art)
-- **Telegram:** [@sweet100](https://t.me/sweeta100)
+- **Telegram:** [@sweeta100](https://t.me/sweeta100)
 - **Email:** [nadezhdina_s@mail.ru](mailto:nadezhdina_s@mail.ru)
 
 ---
